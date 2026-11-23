@@ -1,0 +1,5 @@
+.env
+__pycache__/
+data/compressor_data.csv
+data/compressor.db
+layer5/users.json
