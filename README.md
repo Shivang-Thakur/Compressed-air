@@ -1,3 +1,11 @@
+Live demo link https://shivang-thakur.github.io/Compressed-air/
+
+<img width="1912" height="1026" alt="image" src="https://github.com/user-attachments/assets/68f0a747-54de-40e3-91c6-2d4c1379457e" />
+<img width="1917" height="1027" alt="image" src="https://github.com/user-attachments/assets/7c77da68-bf2b-4259-9116-ae6e0fd856e5" />
+
+
+
+
 # Compressor Leakage Detection and Monitoring Dashboard (Simulation-Based)
 
 **Software only project — koi hardware banana nahi hai.** Python sensor data
